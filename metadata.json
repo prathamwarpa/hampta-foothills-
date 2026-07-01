@@ -1,0 +1,5 @@
+{
+  "name": "Hamta Foothills Cottage",
+  "description": "A luxury mountain retreat in Prini, Manali, offering a premium wooden cottage experience with breathtaking Himalayan views.",
+  "requestFramePermissions": ["geolocation"]
+}
